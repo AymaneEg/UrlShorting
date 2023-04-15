@@ -8,7 +8,6 @@
     "build": "vite build",
     "preview": "vite preview",
     "build-css": "tailwind build src/App.css -o dist/App.css"
-
   },
   "dependencies": {
     "react": "^18.2.0",
